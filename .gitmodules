@@ -1,0 +1,3 @@
+[submodule "csgo-benchmark"]
+	path = csgo-benchmark
+	url = https://github.com/samisalreadytaken/csgo-benchmark.git
