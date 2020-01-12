@@ -32,5 +32,6 @@ Arch Linux latest `mesa-tkg-git` and `lib32-mesa-tkg-git` (`20.0.0_devel.119033.
 
 Windows 10 benchmark results for CSGO:
 ```
-   Game freezes once a map loads. Could be a config or launch option error. Regardless, it looks like I will be playing csgo on linux on my laptop!
+   Game freezes once a map loads. Could be a config or launch option error. Regardless, it looks 
+   like I will be playing csgo on linux on my laptop!
 ```
