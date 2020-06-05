@@ -9,6 +9,10 @@ Laptop (Windows 10) launch options:
 Desktop (Windows 10) launch options:
 `-novid -nojoy -d3d9ex -tickrate 128 +exec autoexec.cfg`
 
+## Important settings
+
+mouse sensitivity = 0.48
+
 ### Benchmarks
 
 Laptop specs:
